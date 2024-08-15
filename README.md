@@ -67,7 +67,6 @@
         <li><strong>User Input and Feedback:</strong> Prompts the user to guess, provides feedback, and records guesses.</li>
         <li><strong>Displaying All Guesses:</strong> Once the correct number is guessed, the list of all guesses is displayed.</li>
     </ol>
-
     <h2>Example</h2>
     <pre><code>Guess number from 1 to 1000: 500
 Your guess is too high. Try a lower number!
@@ -84,14 +83,14 @@ Congratulations! You've guessed the correct number: 312
 List of your guesses: [500, 250, 375, 312]
 </code></pre>
 
-    <h2>Contributing</h2>
-    <p>We welcome contributions to enhance the game. If you have any suggestions or improvements, feel free to fork the repository and submit a pull request.</p>
+<h2>Contributing</h2>
+<p>We welcome contributions to enhance the game. If you have any suggestions or improvements, feel free to fork the repository and submit a pull request.</p>
 
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
+<h2>License</h2>
+<p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
 
-    <h2>Contact</h2>
-    <p>For any questions or further information, please contact <a href="mailto:your.email@example.com">Your Name</a>.</p>
+<h2>Contact</h2>
+<p>For any questions or further information, please contact <a href="mailto:your.email@example.com">Your Name</a>.</p>
 
 </body>
 </html>
